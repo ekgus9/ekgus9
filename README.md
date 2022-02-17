@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=8181F7&reversal=false&text=DAHYUN%20JUNG&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=slice&color=8181F7&reversal=false&text=DAHYUN%20JUNG&fontColor=FFFFFF&height=400)
 
 
 
