@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=8181F7&reversal=true&text=다현&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=shark&color=8181F7&reversal=false&text=DAHYUN JUNG&fontColor=FFFFFF)
+
+
 
 ### Hi there 👋
 
